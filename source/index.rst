@@ -23,6 +23,14 @@ Koło działa na Wydziale Elektroniki i Telekomunikacji Politechniki Poznańskie
     Jacek Pruciak,
     Damian Fajfer
 
+Dokumenty
+---------
+
+ - :download:`Wniosek<_static/wniosek.pdf>` o założenie koła wraz z planem na rok 2016/2017
+ - :download:`Decyzja<_static/decyzja.pdf>` o rejestracji Koła Naukowego ŻUBR
+ - :download:`Regulamin<_static/reg.pdf>` koła
+
+
 --------
 
 Mapa strony
@@ -32,5 +40,8 @@ Mapa strony
    :maxdepth: 2
 
    Zarząd <zarzad>
+   Kalendarz <kalendarz>
    Kontakt <kontakt>
+   Członkostwo <czlonkostwo>
    Warsztaty <warsztaty>
+   Artykuły <artykuly>

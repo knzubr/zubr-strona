@@ -21,7 +21,7 @@ Instalacja VM w kvm-qemu
    virsh ... 
 
 Uruchamianie VM w Vagrancie
--------------------------
+---------------------------
 
 ::
 
@@ -66,6 +66,7 @@ Vagrant używa konfiguracji zapisanej w Vagrantfile.
    Vagrant.configure("2") do |config|
        config.vm.provision "shell", path: "script.sh"
    end   
+   
    # ustawianie cpu i ram dla VirtualBoxa
    config.vm.provider "virtualbox" do |vb|
        vb.cpus = 2
@@ -89,11 +90,17 @@ Konfiguracja z wieloma VM
        end
    end
 
+Przykładowa konfiguracja
+------------------------
+
+::
+
+    TODO
 
 Linki
 -----
 
-https://www.vagrantup.com/intro/getting-started/index.html
-https://www.vagrantup.com/docs/index.html
-https://virt-manager.org/
-https://libvirt.org/index.html
+ - https://www.vagrantup.com/intro/getting-started/index.html
+ - https://www.vagrantup.com/docs/index.html
+ - https://virt-manager.org/
+ - https://libvirt.org/index.html
