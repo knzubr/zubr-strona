@@ -16,4 +16,5 @@ Kalendarz
 * *28.04.2018* - XIII edycja Poznańskiej Imprezy Wolnego Oprogramowania
 * *18.10.2018* - Dzień Organizacji Studenckich i Kół Naukowych
 * *07.01.2019* - Wybory zarządu koła na rok 2019
-* *XX.04.2019* - II Wieczór Wolnego Oprogramowania
+* *30.03.2019* - udział w hackathonie ADDICTon 2019
+* *25.04.2019* - II Wieczór Wolnego Oprogramowania

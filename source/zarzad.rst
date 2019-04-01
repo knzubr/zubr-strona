@@ -6,4 +6,3 @@ Zarząd
     Bartosz Krakowiak
 :Zarząd:
     Jacek Pruciak
-    Damian Fajfer

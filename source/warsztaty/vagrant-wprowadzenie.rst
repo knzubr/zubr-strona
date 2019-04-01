@@ -1,8 +1,8 @@
 Vagrant - wprowadzenie
 ======================
 
-Instalacja VM w kvm-qemu
-------------------------
+Przykładowa instalacja VM w kvm-qemu
+------------------------------------
 
 .. highlight:: bash
 
@@ -12,16 +12,28 @@ Instalacja VM w kvm-qemu
    
    # instalacja:
    virt-install --virt-type kvm --name ubuntu --ram 1024 --cdrom=ubuntu.iso --disk ubuntu-disk.qcow2,format=qcow2 --network network=default --graphics vnc,listen=0.0.0.0 --noautoconsole --os-type=linux
-    
+   
+   # można również użyć GUI: virt-manager
+
    # połącz się przez vnc
    vncviewer
-    
    # instalacja systemu, konfiguracja ...
+   
    # zarządzanie maszynami wirtualnymi
-   virsh ... 
+   virsh ...
+
+Aby stworzyć obraz szybciej, możemy użyć programu *virt-builder*.
+Więcej informacji:
+
+::
+
+    man virt-builder
 
 Uruchamianie VM w Vagrancie
 ---------------------------
+
+Aby uruchomić VM z domyślnym providerem(VirtualBox), musimy zainstalować wcześniej VirtualBox na komputerze.
+Informacje o innych providerach jak KVM, VMware, Docker czy HyperV możesz znaleźć w `dokumentacji <https://www.vagrantup.com/docs/index.html>`_.
 
 ::
 
@@ -30,22 +42,22 @@ Uruchamianie VM w Vagrancie
 
    vagrant ssh
 
-   #shutdown
+   # shutdown
    vagrant halt
 
-   #przeładowanie konfiguracji
+   # przeładowanie konfiguracji
    vagrant reload
    # lub jeśli mamy provisioning
    vagrant reload --provision
 
-   #usunięcie vm
+   # usunięcie vm
    vagrant destroy
 
 
 Konfiguracja VM
 ---------------
 
-Vagrant używa konfiguracji zapisanej w Vagrantfile.
+Vagrant używa konfiguracji zapisanej w Vagrantfile, domyślny vagrantfile tworzymy instrukcją *vagrant init*.
 
 ::
 
@@ -66,11 +78,17 @@ Vagrant używa konfiguracji zapisanej w Vagrantfile.
    Vagrant.configure("2") do |config|
        config.vm.provision "shell", path: "script.sh"
    end   
-   
+
+Opcje konfiguracyjne dla domyślnego providera (VirtualBox):
+
+::
+
    # ustawianie cpu i ram dla VirtualBoxa
    config.vm.provider "virtualbox" do |vb|
+       vb.name = "my_vm" # nazwa vm
        vb.cpus = 2
        vb.memory = "4096"
+       v.gui = true # tryb graficzny, domyślnie false
    end
 
 Konfiguracja z wieloma VM
