@@ -1,0 +1,19 @@
+II Wieczór Wolnego Oprogramowania
+=================================
+
+25.04.2019r. miała miejsce 2 edycja Wieczoru Wolnego Oprogramowania. Agenda wraz z materiałami z prelekcji poniżej.
+
+:download:`[plakat]<../_static/plakatwwo2019.jpg>`
+`[wydarzenie FB] <https://www.facebook.com/events/2119729894984626/>`_
+
+Prelekcje
+---------
+
+- | Przegląd alternatyw dla MATLAB, *Bartosz Krakowiak*
+  | :download:`[PDF]<../_static/alternatywa_dla_matlab.pdf>`
+- | Platforma do testowania protokołów routingu, *Adam Kaliszan*
+  | 
+- | Jaki wpływ na budownie współczesnego internetu ma wolne oprogramowanie? *Piotr Nowak, High Solutions*
+  | 
+- | Rewolucja Wolnego Oprogramowania, *Kacper Paczos*
+  | 
