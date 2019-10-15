@@ -13,7 +13,7 @@ zajmuje się szerzeniem świadomości o etycznym i praktycznym znaczeniu wolnoś
 
 Koło działa na Wydziale Elektroniki i Telekomunikacji Politechniki Poznańskiej przy Katedrze Sieci Telekomunikacyjnych i Komputerowych.
 
-**Zapraszamy na cotygodniowe spotkania w poniedziałki o godzinie 18:30 w sali 024(lub sąsiedniej) na Wydziale Elektroniki i Telekomunikacji( ul.Polanka 3) lub sali 1.6.18 w Centrum Wykładowym, o miejscu informujemy na stronie fb.**
+**Zapraszamy na cotygodniowe spotkania we wtorki o godzinie 18:30 w sali 024(lub sąsiedniej) na Wydziale Elektroniki i Telekomunikacji( ul.Polanka 3), o miejscu informujemy na stronie fb.**
 
 :Opiekun koła:
     dr inż. Adam Kaliszan
