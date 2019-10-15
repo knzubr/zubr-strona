@@ -20,8 +20,7 @@ Koło działa na Wydziale Elektroniki i Telekomunikacji Politechniki Poznańskie
 :Przewodniczący:
     Bartosz Krakowiak
 :Zarząd:
-    Jacek Pruciak,
-    Damian Fajfer
+    Jacek Pruciak
 
 Dokumenty
 ---------
