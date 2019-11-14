@@ -12,7 +12,7 @@ Prelekcje
 - | Przegląd alternatyw dla MATLAB, *Bartosz Krakowiak*
   | :download:`[PDF]<../_static/alternatywa_dla_matlab.pdf>`
 - | Platforma do testowania protokołów routingu, *Adam Kaliszan*
-  | 
+  | :download:`[PDF]<../_static/routing_platforma_testowa_akaliszan.pdf>`
 - | Jaki wpływ na budownie współczesnego internetu ma wolne oprogramowanie? *Piotr Nowak, High Solutions*
   | 
 - | Rewolucja Wolnego Oprogramowania, *Kacper Paczos*
