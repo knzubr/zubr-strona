@@ -22,6 +22,13 @@ Koło działa na Wydziale Elektroniki i Telekomunikacji Politechniki Poznańskie
 :Zarząd:
     Jacek Pruciak
 
+Kalendarz spotkań
+-----------------
+
+.. raw:: html
+
+    <iframe width="400" height="215" src="https://cloud.knzubr.pl/index.php/apps/calendar/embed/Q75TSTPngQMbJrox"></iframe>
+
 Dokumenty
 ---------
 
