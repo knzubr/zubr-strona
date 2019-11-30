@@ -27,7 +27,7 @@ Kalendarz spotkań
 
 .. raw:: html
 
-    <iframe width="400" height="215" src="https://cloud.knzubr.pl/index.php/apps/calendar/embed/Q75TSTPngQMbJrox"></iframe>
+    <iframe width="600" height="400" src="https://cloud.knzubr.pl/index.php/apps/calendar/embed/Q75TSTPngQMbJrox"></iframe>
 
 Dokumenty
 ---------
