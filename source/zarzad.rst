@@ -1,8 +1,8 @@
 Zarząd
 ======
 :Opiekun koła:
-    dr inż. Adam Kaliszan
+    dr inż. Marek Michalski
 :Przewodniczący:
-    Bartosz Krakowiak
-:Zarząd:
     Jacek Pruciak
+:Zarząd:
+    Bartosz Krakowiak
